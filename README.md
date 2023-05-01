@@ -4,3 +4,4 @@ blabla
 Darja Cvetkovic
 
 nestoooooladslakdj
+simulacija crasha
